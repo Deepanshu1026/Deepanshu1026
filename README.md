@@ -13,7 +13,7 @@ PHP & Laravel Developer | Full Stack Web Developer
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/deepanshu-bisht-b3b733230/" target="_blank">LinkedIn</a> •
 <a href="#" target="_blank">Portfolio</a>
 </p>
 
