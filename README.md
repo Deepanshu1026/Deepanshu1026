@@ -6,17 +6,6 @@ PHP & Laravel Developer | Full Stack Web Developer
 
 ---
 
-- 🔭 Currently working at **Avisa Experts**
-- 💼 2+ years experience in **PHP & Laravel**
-- 🌱 Learning **Advanced Laravel & Node.js**
-- 💬 Ask me about **PHP, Laravel, APIs, MySQL, Razorpay**
-- 🌐 Projects:
-  - https://avisaexperts.com  
-  - https://collabrix.in  
-  - https://demo.infrasolutionsprovider.com  
-
----
-
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> •
